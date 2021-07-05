@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrashantSBasnet
 - 👀 I’m interested in software engineerning and database
 - 🌱 I’m currently learning JAVA, SQL, PLSQL, Hadoop
-- 💞️ I’m looking to collaborate on software engineering projects like android app developments
+- 💞️ I’m looking to collaborate on software engineering projects like android app developments. Also, always open towards database management projects. 
 - 📫 prashantsbasnet@gmail.com
 
 <!---
