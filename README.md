@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrashantSBasnet
-- 👀 I’m interested in software engineerning and database
+- 👀 I’m a Backend Developer and I work in SpringBoot Framework
 - 🌱 I’m currently learning JAVA, SQL, PLSQL, Hadoop
 - 💞️ I’m looking to collaborate on software engineering projects. I am interesed to pursue a career as a Java Developer. I am also intereseted in software               engineering projects like android app developments. Also, always open towards database management projects. 
 - 📫 prashantsbasnet@gmail.com
