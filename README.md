@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrashantSBasnet
-- 👀 I’m a Backend Developer and I work in SpringBoot Framework
-- 🌱 I’m currently learning JAVA, SQL, PLSQL, Hadoop
-- 💞️ I’m looking to collaborate on software engineering projects. I am interesed to pursue a career as a Java Developer. I am also intereseted in software               engineering projects like android app developments. Also, always open towards database management projects. 
+- 👀 I’m a Backend Developer and I work in SpringBoot Framework. I am learning front end skill as well.
+- 🌱 I’m currently learning JAVA, JavaScript, Angular framework,  SQL, PLSQL, Hadoop
+- 💞️ Fascinated by Data Science as well.
 - 📫 prashantsbasnet@gmail.com
 
 <!---
