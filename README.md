@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @PrashantSBasnet
-- 🌱 I’m currently learning  SpringBoot Framework, Angular framework, JAVA
-- 💞️ Fascinated by Data Science as well. Learning PL/SQL and Hadoop.. 
+- 👋 Hi, I’m @PrashantSBasnet, Software Engineer
+- 🌱 I’m currently working in technologies like  SpringBoot Framework, .Net, SSIS, ETL.
 - 📫 prashantsbasnet@gmail.com
 
 <!---
