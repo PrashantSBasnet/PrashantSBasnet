@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PrashantSBasnet
-- 🌱 I’m a software enginner working in Spring Boot Framework, .Net, SSIS and ETL.
--     I find AI really fascinating..
+- 🌱 I’m a software enginner working in Spring Boot Framework, .Net, SSIS and ETL. Always fascinated by AI!
 - 
 - 📫 prashantsbasnet@gmail.com
 
