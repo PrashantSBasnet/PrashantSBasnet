@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @PrashantSBasnet, Software Engineer
-- 🌱 I’m currently working in technologies like  SpringBoot Framework, .Net, SSIS, ETL.
+- 👋 Hi, I’m @PrashantSBasnet
+- 🌱 I’m a software enginner working in Spring Boot Framework, .Net, SSIS and ETL.
+-     I find AI really fascinating..
+- 
 - 📫 prashantsbasnet@gmail.com
 
 <!---
