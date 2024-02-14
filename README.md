@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @PrashantSBasnet
-- 🌱 I’m a software engineer working in Spring Boot Framework, .Net, SSIS and ETL. Learning AI/ML...
-- 📫 You can reach me at prashantsbasnet@gmail.com
+- 👋 Prashant Singh Basnet
+- 🌱 Java, Spring, ETL(SSIS)
+- 📫 prashantsbasnet@gmail.com
+-  https://www.linkedin.com/feed/
+  
 
 <!---
 PrashantSBasnet/PrashantSBasnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
