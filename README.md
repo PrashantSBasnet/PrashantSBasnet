@@ -1,7 +1,7 @@
 - 👋 Prashant Singh Basnet
 - 🌱 Java, Spring, Spring Boot, Python, ETL(SSIS)
--  AI/ML Enthusiat
--  Auto Enthusiast
+-    AI/ML Enthusiast
+-    Auto Enthusiast
 - 📫 prashantsbasnet@gmail.com
 -  https://www.linkedin.com/feed/
   
