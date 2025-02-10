@@ -5,8 +5,8 @@
     Programming Languages: Java, Python
     Frameworks: Spring, Spring Boot
     Data Engineering: Big Data Processing, ETL (SSIS)
-    AI/ML: Machine Learning & Deep Learning
-    🚗 Auto Enthusiast: Always excited about automotive technology!
+    AI/ML: Machine Learning & Deep Learning, particularly focusing on the applications of computer vision.
+    🚗 Auto Enthusiast: Always excited about automotive technology and interested to explore the application of computer vision in automotives.
     📫 Connect with me: prashantsbasnet@gmail.com
     🔗 LinkedIn: linkedin.com/in/prashantsbasnet
   
