@@ -1,5 +1,5 @@
 👋 Hi, I'm Prashant Singh Basnet
-🌱 Tech Enthusiast | Backend Developer | AI/ML Explorer
+🌱 Software Engineer | Lecturer | AI/ML Explorer | Car Enthusiast
 🔧 Technologies I'm passionate about:
 
     Programming Languages: Java, Python
