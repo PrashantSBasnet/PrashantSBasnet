@@ -3,7 +3,7 @@
 🔧 Technologies I'm passionate about:
 
     Programming Languages: Java, Python
-    Frameworks: Spring, Spring Boot
+    Frameworks: Spring Boot, Spring, Flask 
     Data Engineering: Big Data Processing, ETL (SSIS)
     AI/ML: Machine Learning & Deep Learning, particularly focusing on the applications of computer vision.
     🚗 Auto Enthusiast: Always excited about automotive technology and interested to explore the application of computer vision in automotives.
