@@ -3,9 +3,9 @@
 🔧 Technologies I'm passionate about:
 
     Programming Languages: Java, Python
-    Frameworks: Spring Boot, Spring, Flask 
+    Frameworks: Spring Boot, Spring, Django, TensorFlow 
     Data Engineering: Big Data Processing, ETL (SSIS)
-    AI/ML: Machine Learning & Deep Learning, particularly focusing on the applications of computer vision.
+    AI/ML: Machine Learning & Deep Learning, particularly focusing on the applications of computer vision with a research work on hybridization.
     🚗 Auto Enthusiast: Always excited about automotive technology and interested to explore the application of computer vision in automotives.
     📫 Connect with me: prashantsbasnet@gmail.com
     🔗 LinkedIn: linkedin.com/in/prashantsbasnet
